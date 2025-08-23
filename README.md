@@ -17,7 +17,7 @@ I enjoy solving real-world problems through clean and efficient code.
 **Languages & Tools:**  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,html,css,javascript,mysql,sqlite,laravel,spring,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,html,css,mysql,sqlite,laravel,spring,bootstrap,git,github" />
 </p>
 
 ---
