@@ -65,8 +65,7 @@ I enjoy solving real-world problems through clean and efficient code.
 
 ## 🌐 Connect with Me
 - 📧 Email: **yassinelkhamlichi98@gmail.com**  
-- 💼 LinkedIn: [Yassine El Khamlichi](https://www.linkedin.com/in/%D9%8A%D8%A7%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D8%AE%D9%85%D9%84%D9%8A%D8%B4%D9%8A/)  
-- 🖥️ GitHub: [yassin-elkhamlichi](https://github.com/yassin-elkhamlichi)  
+- 💼 LinkedIn: [Yassine El Khamlichi](https://www.linkedin.com/in/yassinelkhamlichi )  
 
 ---
 
