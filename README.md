@@ -31,10 +31,10 @@ I enjoy solving real-world problems through clean and efficient code.
 
 ## 💡 Projects
 
-- 🏥 [**Cabinet Doctor (JavaFX GUI)**](https://github.com/yassin-elkhamlichi/Cabinet-Doctor-with-GUI-using-JavaFX)  
+- 🏥 [**Cabinet Doctor (CLI)**](https://github.com/yassin-elkhamlichi/Cabinet-Doctor-with-storage-in-DB-using-Terminal)  
 - 🏥 [**Cabinet Doctor (Swing GUI)**](https://github.com/yassin-elkhamlichi/Cabinet_Doctor_with_JavaFX)  
-- 🏫 [**School Management System (Terminal, Entity Framework Core)**](https://github.com/yassin-elkhamlichi/School-management-with-Terminal-Entity-Framework-Core-)  
-- 🏫 [**School Management System (Tkinter GUI)**](https://github.com/yassin-elkhamlichi/School-management-with-GUI-use-tkinter)  
+- 🏫 [**School Management System (CLI)**](https://github.com/yassin-elkhamlichi/School-management-with-Terminal-Entity-Framework-Core-)  
+- 🏫 [**School Management System (PyQt5 GUI)**](https://github.com/yassin-elkhamlichi/School-management-with-GUI-use-tkinter)  
 - 🍴 [**Restaurant Reservation Management System**](https://github.com/yassin-elkhamlichi/Restoran)  
 
 ---
