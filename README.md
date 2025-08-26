@@ -39,19 +39,23 @@ I enjoy solving real-world problems through clean and efficient code.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassin-elkhamlichi&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassin-elkhamlichi&show_icons=true&theme=tokyonight" alt="Yassine's GitHub stats" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassin-elkhamlichi&layout=compact&theme=radical&count_private=true)  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassin-elkhamlichi&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=yassin-elkhamlichi&theme=radical&hide_border=false&count_private=true)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassin-elkhamlichi&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+---
+
+## 📂 Featured Projects
+- 🏫 [School Management System (PyQt5 GUI)](https://github.com/yassin-elkhamlichi/School-management-with-GUI)  
+- 🏫 [School Management System (Terminal)](https://github.com/yassin-elkhamlichi/School-management-with-Terminal)  
+- 🍽️ [Restaurant Reservation Management System](https://github.com/yassin-elkhamlichi/Restaurant-Reservation-Management-System)  
+
+---
+
+
 
 ---
 
