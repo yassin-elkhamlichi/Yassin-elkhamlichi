@@ -48,17 +48,6 @@ I enjoy solving real-world problems through clean and efficient code.
 
 ---
 
-## 📂 Featured Projects
-- 🏫 [School Management System (PyQt5 GUI)](https://github.com/yassin-elkhamlichi/School-management-with-GUI)  
-- 🏫 [School Management System (Terminal)](https://github.com/yassin-elkhamlichi/School-management-with-Terminal)  
-- 🍽️ [Restaurant Reservation Management System](https://github.com/yassin-elkhamlichi/Restaurant-Reservation-Management-System)  
-
----
-
-
-
----
-
 ## 🌱 Contribution Graph
 
 <p align="center">
