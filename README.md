@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I am a dedicated software developer with expertise in **web and desktop applications** using modern technologies.  
+I am a dedicated software engineer with expertise in **web and desktop applications** using modern technologies.  
 I enjoy solving real-world problems through clean and efficient code.  
 
 ---
