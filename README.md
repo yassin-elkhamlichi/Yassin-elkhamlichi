@@ -41,11 +41,16 @@ I enjoy solving real-world problems through clean and efficient code.
 ---
 
 ## 📊 GitHub Stats  
+
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassin-elkhamlichi&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassin-elkhamlichi&layout=compact&theme=radical&count_private=true)  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yassin-elkhamlichi&theme=radical&hide_border=false&count_private=true)  
+
+</div>
 
 ---
 
