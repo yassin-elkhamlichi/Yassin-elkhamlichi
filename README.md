@@ -48,7 +48,7 @@ I enjoy solving real-world problems through clean and efficient code.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassin-elkhamlichi&layout=compact&theme=radical&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yassin-elkhamlichi&theme=radical&hide_border=false&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=yassin-elkhamlichi&theme=radical&hide_border=false&count_private=true)
 
 </div>
 
