@@ -24,13 +24,13 @@
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Key Features |
-| :--- | :--- | :--- |
-| [**🛒 E-Commerce REST API**](https://github.com/yassin-elkhamlichi/Spring-Boot-with-Rest-Api-) | **Spring Boot, Security, JWT** | Feature-based architecture, Stateless Auth, MapStruct, Payment Gateway, Postman Automation. |
-| [**🏢 Enterprise Order System**](https://github.com/yassin-elkhamlichi/JEE-Project) | **Java EE, Hibernate, JSP** | MVC Pattern, DAO Layer, Session Management, Complex Entity Relationships. |
-| [**🏫 School Management System**](https://github.com/yassin-elkhamlichi/School-management-with-GUI-use-tkinter) | **Python, Tkinter, SQLite** | Desktop automation tool with data export/import and user administration. |
-| [**🏥 Medical Cabinet Suite**](https://github.com/yassin-elkhamlichi/Cabinet_Doctor_with_Swing) | **Java, Swing, MySQL** | Patient management system demonstrating legacy UI maintenance and CRUD logic. |
-| [**🍴 Restaurant Reservation**](https://github.com/yassin-elkhamlichi/Restoran) | **Laravel, PHP, MySQL** | Full-stack web app for table booking and staff role management. |
+| Project | Key Features |
+| :--- | :--- |
+| [**🛒 E-Commerce REST API**](https://github.com/yassin-elkhamlichi/Spring-Boot-with-Rest-Api-) |  Feature-based architecture, Stateless Auth, MapStruct, Payment Gateway, Postman Automation. |
+| [**🏢 Enterprise Order System**](https://github.com/yassin-elkhamlichi/JEE-Project) |  MVC Pattern, DAO Layer, Session Management, Complex Entity Relationships. |
+| [**🏫 School Management System**](https://github.com/yassin-elkhamlichi/School-management-with-GUI-use-tkinter) |  Desktop automation tool with data export/import and user administration. |
+| [**🏥 Medical Cabinet Suite**](https://github.com/yassin-elkhamlichi/Cabinet_Doctor_with_Swing) |  Patient management system demonstrating legacy UI maintenance and CRUD logic. |
+| [**🍴 Restaurant Reservation**](https://github.com/yassin-elkhamlichi/Restoran) |  Full-stack web app for table booking and staff role management. |
 
 ---
 
