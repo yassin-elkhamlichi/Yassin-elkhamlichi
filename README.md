@@ -7,8 +7,7 @@
 ---
 
 ## 🚀 About Me
-I am a dedicated software engineer with expertise in **web and desktop applications** using modern technologies.  
-I enjoy solving real-world problems through clean and efficient code.  
+Dedicated Software Engineer and Master’s student in Software Quality, specializing in backend development with Java Spring Boot and Laravel. Experienced in full-stack principles, system modeling (UML), and deploying containerized applications using Docker. Passionate about building scalable web solutions and efficient desktop architectures.
 
 ---
 
