@@ -1,71 +1,65 @@
-# Hi there, I'm Yassine El Khamlichi 👋  
-
-🎓 **Master's Student in Software Quality** at Abdelmalek Essaâdi University  
-💻 **Software Developer** passionate about building efficient and scalable solutions  
-🌍 Based in Tetouan, Morocco  
-
----
-
-## 🚀 About Me
-Dedicated Software Engineer and Master’s student in Software Quality, specializing in backend development with Java Spring Boot and Laravel. Experienced in full-stack principles, system modeling (UML), and deploying containerized applications using Docker. Passionate about building scalable web solutions and efficient desktop architectures.
-
----
-
-## 🛠️ Skills
-
-**Languages & Tools:**  
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,php,c,html,css,mysql,sqlite,laravel,spring,bootstrap,git,github,docker" />
-</p>
-
----
-
-## 📚 Education
-- 🎓 **Master's in Software Quality** (2024 – Present) – Abdelmalek Essaâdi University  
-- 🎓 **Bachelor's in Math Science & Informatics (SMI)** (2024) – Abdelmalek Essaâdi University  
-- 🎓 **High School Diploma in Physics & Chemistry** (2021)  
-
----
-
-## 💡 Projects
-
-- 🍴 [**Restaurant Reservation Management System**](https://github.com/yassin-elkhamlichi/Restoran)  
-- 🏥 [**Cabinet Doctor (CLI)**](https://github.com/yassin-elkhamlichi/Cabinet-Doctor-with-storage-in-DB-using-Terminal)  
-- 🏥 [**Cabinet Doctor (Swing GUI)**](https://github.com/yassin-elkhamlichi/Cabinet_Doctor_with_JavaFX)  
-- 🏫 [**School Management System (CLI)**](https://github.com/yassin-elkhamlichi/School-management-with-Terminal-Entity-Framework-Core-)  
-- 🏫 [**School Management System (PyQt5 GUI)**](https://github.com/yassin-elkhamlichi/School-management-with-GUI-use-tkinter)  
-
-
----
-
-## 📊 GitHub Stats  
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassin-elkhamlichi&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+# Hi there, I'm Yassine El Khamlichi 👋
+### Java Spring Developer | Master's Student in Software Quality
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassin-elkhamlichi&layout=compact&theme=radical&count_private=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yassinelkhamlichi)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:yassinelkhamlichi98@gmail.com)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yassin-elkhamlichi&theme=radical&hide_border=false&count_private=true)
+<br />
+
+**Dedicated Software Engineer** passionate about building scalable backend architectures and efficient desktop solutions. Currently specializing in **Spring Boot**, **System Modeling**, and **Software Quality Assurance**.
 
 </div>
 
 ---
 
-## 🌱 Contribution Graph
+## 🛠️ Technical Arsenal
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yassin-elkhamlichi&theme=tokyo-night" alt="Contribution Graph" />
-</p>
-
----
-
-## 🌐 Connect with Me
-- 📧 Email: **yassinelkhamlichi98@gmail.com**  
-- 💼 LinkedIn:
- [Yassine El Khamlichi](https://www.linkedin.com/in/yassinelkhamlichi )  
+| **Backend & Database** | **Frontend & UI** | **Tools & DevOps** |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=java,spring,python,php,laravel,mysql,sqlite,hibernate" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" /> |
 
 ---
 
-✨ *"Code is like humor. When you have to explain it, it’s bad."*
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Key Features |
+| :--- | :--- | :--- |
+| [**🛒 E-Commerce REST API**](https://github.com/yassin-elkhamlichi/Spring-Boot-with-Rest-Api-) | **Spring Boot, Security, JWT** | Feature-based architecture, Stateless Auth, MapStruct, Payment Gateway, Postman Automation. |
+| [**🏢 Enterprise Order System**](https://github.com/yassin-elkhamlichi/JEE-Project) | **Java EE, Hibernate, JSP** | MVC Pattern, DAO Layer, Session Management, Complex Entity Relationships. |
+| [**🏫 School Management System**](https://github.com/yassin-elkhamlichi/School-management-with-GUI-use-tkinter) | **Python, Tkinter, SQLite** | Desktop automation tool with data export/import and user administration. |
+| [**🏥 Medical Cabinet Suite**](https://github.com/yassin-elkhamlichi/Cabinet_Doctor_with_Swing) | **Java, Swing, MySQL** | Patient management system demonstrating legacy UI maintenance and CRUD logic. |
+| [**🍴 Restaurant Reservation**](https://github.com/yassin-elkhamlichi/Restoran) | **Laravel, PHP, MySQL** | Full-stack web app for table booking and staff role management. |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/yassin-elkhamlichi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yassin-elkhamlichi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassin-elkhamlichi&layout=compact&theme=radical&count_private=true" />
+</a>
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=yassin-elkhamlichi&theme=radical&hide_border=false&count_private=true" alt="Streak" />
+
+</div>
+
+---
+
+## 📚 Education
+
+* 🎓 **Master's in Software Quality** (2024 – Present) – *Abdelmalek Essaâdi University*
+* 🎓 **Bachelor's in Math Science & Informatics** (2024) – *Abdelmalek Essaâdi University*
+
+---
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it’s bad."*
+
+</div>
