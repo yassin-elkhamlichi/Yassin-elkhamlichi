@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
 | **Backend & Database** | **Frontend & UI** | **Tools & DevOps** |
 | :--- | :--- | :--- |
