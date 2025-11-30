@@ -1,36 +1,44 @@
 <div align="center">
 
 # Hi there, I'm Yassine El Khamlichi 👋
-### Java Spring Developer | Master's Student in Software Quality
+### Java Backend Engineer | Software Quality Specialist | Aspiring Full Stack
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yassinelkhamlichi)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:yassinelkhamlichi98@gmail.com)
 
 <br />
 
-**Dedicated Software Engineer** passionate about building scalable backend architectures and efficient desktop solutions. Currently specializing in **Spring Boot**, **System Modeling**, and **Software Quality Assurance**.
+**Dedicated Software Engineer** with a strong foundation in **Spring Boot Architecture** and **System Modeling**. Currently pursuing a **Master's in Software Quality**, bridging the gap between robust backend logic and modern frontend interfaces with **Angular**.
 
 </div>
 
 ---
 
+## ⚡ Currently Focusing On
+
+* 🌱 Integrating my E-Commerce REST API with a reactive **Angular** frontend.
+* 🛡️ Implementing Advanced **Spring Security** patterns (JWT & OAuth2).
+* 🧪 Researching Automated Testing & Quality Assurance standards for Enterprise Apps.
+
+---
+
 ## 🛠️ Technical Skills
 
-| **Backend & Database** | **Frontend & UI** | **Tools & DevOps** |
+| **Backend & Architecture** | **Frontend & Web** | **Tools & DevOps** |
 | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=java,spring,python,php,laravel,mysql,sqlite,hibernate" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" /> |
+| <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,maven,idea" /> | <img src="https://skillicons.dev/icons?i=angular,ts,html,css,bootstrap" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" /> |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Key Features |
+| Project | Key Tech & Features |
 | :--- | :--- |
-| [**🛒 E-Commerce REST API**](https://github.com/yassin-elkhamlichi/Spring-Boot-with-Rest-Api-) |  Feature-based architecture, Stateless Auth, MapStruct, Payment Gateway, Postman Automation. |
-| [**🏢 Enterprise Order System**](https://github.com/yassin-elkhamlichi/JEE-Project) |  MVC Pattern, DAO Layer, Session Management, Complex Entity Relationships. |
-| [**🏫 School Management System**](https://github.com/yassin-elkhamlichi/School-management-with-GUI-use-tkinter) |  Desktop automation tool with data export/import and user administration. |
-| [**🏥 Medical Cabinet Suite**](https://github.com/yassin-elkhamlichi/Cabinet_Doctor_with_Swing) |  Patient management system demonstrating legacy UI maintenance and CRUD logic. |
-| [**🍴 Restaurant Reservation**](https://github.com/yassin-elkhamlichi/Restoran) |  Full-stack web app for table booking and staff role management. |
+| [**🛒 E-Commerce REST API (Full Stack In-Progress)**](https://github.com/yassin-elkhamlichi/Spring-Boot-with-Rest-Api-) | **Spring Boot, JWT, Flyway, MapStruct, Swagger**. <br> A production-ready backend with role-based auth and payment integration. *Currently building the Angular Dashboard.* |
+| [**🏢 Enterprise Order System**](https://github.com/yassin-elkhamlichi/JEE-Project) | **Java EE, MVC, DAO, JSP**. <br> Legacy architecture implementation handling complex entity relationships and session management. |
+| [**🏫 School Management System**](https://github.com/yassin-elkhamlichi/School-management-with-GUI-use-tkinter) | **Python, Tkinter, SQLite**. <br> Desktop automation tool featuring data export/import and administrative dashboards. |
+| [**🏥 Medical Cabinet Suite**](https://github.com/yassin-elkhamlichi/Cabinet_Doctor_with_Swing) | **Java Swing, JDBC**. <br> Patient management system demonstrating legacy UI maintenance and CRUD logic. |
+| [**🍴 Restaurant Reservation**](https://github.com/yassin-elkhamlichi/Restoran) | **PHP, MySQL**. <br> Full-stack web app for table booking and staff role management. |
 
 ---
 
@@ -39,6 +47,8 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=yassin-elkhamlichi&theme=radical&hide_border=false&count_private=true" alt="Streak" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassin-elkhamlichi&layout=compact&theme=radical" alt="Top Langs" />
 
 </div>
 
