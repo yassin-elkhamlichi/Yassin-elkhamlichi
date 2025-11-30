@@ -47,9 +47,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=yassin-elkhamlichi&theme=radical&hide_border=false&count_private=true" alt="Streak" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassin-elkhamlichi&layout=compact&theme=radical" alt="Top Langs" />
-
 </div>
 
 ---
