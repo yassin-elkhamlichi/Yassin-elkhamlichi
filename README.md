@@ -38,13 +38,6 @@
 
 <div align="center">
 
-<a href="https://github.com/yassin-elkhamlichi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yassin-elkhamlichi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassin-elkhamlichi&layout=compact&theme=radical&count_private=true" />
-</a>
-
-<br />
-
 <img src="https://streak-stats.demolab.com?user=yassin-elkhamlichi&theme=radical&hide_border=false&count_private=true" alt="Streak" />
 
 </div>
