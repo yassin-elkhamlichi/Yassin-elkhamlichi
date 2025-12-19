@@ -46,7 +46,8 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yassin-elkhamlichi&theme=radical&hide_border=false&count_private=true" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=yassin-elkhamlichi&theme=radical&hide_border=true&cache_seconds=86400" />
+
 </div>
 
 ---
