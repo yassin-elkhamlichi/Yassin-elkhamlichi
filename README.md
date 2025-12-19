@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yassin-elkhamlichi&theme=radical&hide_border=true&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api?username=yassin-elkhamlichi&show_icons=true&theme=radical" />
 
 </div>
 
