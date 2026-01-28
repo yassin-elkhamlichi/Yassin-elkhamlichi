@@ -14,14 +14,6 @@
 
 ---
 
-## ⚡ Currently Focusing On
-
-* 🌱 Integrating my E-Commerce REST API with a reactive **Angular** frontend.
-* 🛡️ Implementing Advanced **Spring Security** patterns (JWT).
-* 🧪 Researching Automated Testing & Quality Assurance standards for Enterprise Apps.
-
----
-
 ## 🛠️ Technical Skills
 
 | **Backend & Architecture** | **Frontend & Web** | **Tools & DevOps** |
