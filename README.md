@@ -18,7 +18,8 @@
 
 | **Backend & Architecture** | **Frontend & Web** | **Tools & DevOps** |
 | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,maven,idea" /> | <img src="https://skillicons.dev/icons?i=angular,ts,html,css,bootstrap" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" /> |
+| <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,maven,idea,python" /> | <img src="https://skillicons.dev/icons?i=angular,ts,html,css,bootstrap" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" /> |
+
 
 ---
 
@@ -27,10 +28,13 @@
 | Project | Key Tech & Features |
 | :--- | :--- |
 | [**🛒 E-Commerce REST API (Full Stack In-Progress)**](https://github.com/yassin-elkhamlichi/Spring-Boot-with-Rest-Api-) | **Spring Boot, JWT, Flyway, MapStruct, Swagger**. <br> A production-ready backend with role-based auth and payment integration. *Currently building the Angular Dashboard.* |
+| [**🏟️ Sports Club Management System**](https://github.com/yassin-elkhamlichi/Sports-club-management-system) | **Spring Boot 3, JPA, MySQL**. <br> Backend system for managing members, attendance,matches, and subscriptions with DTO validation, complex JPA relationships, and centralized error handling. |
+| [**🤖 Intelligent RAG AI Agent**](https://github.com/yassin-elkhamlichi/RAG-LangChain-project-) | **Python, LangChain, Gemini, ChromaDB, Docker**. <br> Retrieval-Augmented Generation system enabling natural-language querying over technical documentation using vector embeddings and LLM pipelines. |
 | [**🏢 Enterprise Order System**](https://github.com/yassin-elkhamlichi/JEE-Project) | **Java EE, MVC, DAO, JSP**. <br> Legacy architecture implementation handling complex entity relationships and session management. |
 | [**🏫 School Management System**](https://github.com/yassin-elkhamlichi/School-management-with-GUI-use-tkinter) | **Python, Tkinter, SQLite**. <br> Desktop automation tool featuring data export/import and administrative dashboards. |
 | [**🏥 Medical Cabinet Suite**](https://github.com/yassin-elkhamlichi/Cabinet_Doctor_with_Swing) | **Java Swing, JDBC**. <br> Patient management system demonstrating legacy UI maintenance and CRUD logic. |
 | [**🍴 Restaurant Reservation**](https://github.com/yassin-elkhamlichi/Restoran) | **PHP, MySQL**. <br> Full-stack web app for table booking and staff role management. |
+
 
 ---
 
