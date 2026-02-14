@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Yassine El Khamlichi 👋
-### Java Backend Engineer | Software Quality Specialist | Aspiring Full Stack
+### Software Engineer | Java Spring Boot Specialist | Master’s Student in Software Quality | AI & RAG Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yassinelkhamlichi)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:yassinelkhamlichi98@gmail.com)
