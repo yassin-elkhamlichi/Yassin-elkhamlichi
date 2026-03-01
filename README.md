@@ -27,8 +27,8 @@
 
 | Project | Key Tech & Features |
 | :--- | :--- |
-| [**🛒 E-Commerce REST API (Full Stack In-Progress)**](https://github.com/yassin-elkhamlichi/Spring-Boot-with-Rest-Api-) | **Spring Boot, JWT, Flyway, MapStruct, Swagger**. <br> A production-ready backend with role-based auth and payment integration. *Currently building the Angular Dashboard.* |
-| [**🏟️ Sports Club Management System**](https://github.com/yassin-elkhamlichi/Sports-club-management-system) | **Spring Boot 3, JPA, MySQL**. <br> Backend system for managing members, attendance,matches, and subscriptions with DTO validation, complex JPA relationships, and centralized error handling. |
+| [**🛒 E-Commerce REST API (Full Stack In-Progress)**](https://github.com/yassin-elkhamlichi/Spring-Boot-with-Rest-Api-) | **Spring Boot, JWT, Flyway, MapStruct, Swagger**. <br> A production-ready backend with role-based auth and payment integration.|
+| [**🏟️ Sports Club Management System**](https://github.com/yassin-elkhamlichi/Sports-club-management-system) | **Spring Boot 3, JPA, MySQL, Docker , Flyway, MapStruct, JUnit 5, Mockito, MockMvc**. <br> End-to-end management of members, coaches, matches, and subscriptions. Features automated ticketing with QR logic, attendance tracking, and complex JPA scheduling. Secured via JWT + Docker Secrets with a full suite of MockMvc/Mockito integration tests |
 | [**🤖 Intelligent RAG AI Agent**](https://github.com/yassin-elkhamlichi/RAG-LangChain-project-) | **Python, LangChain, Gemini, ChromaDB, Docker**. <br> Retrieval-Augmented Generation system enabling natural-language querying over technical documentation using vector embeddings and LLM pipelines. |
 | [**🏢 Enterprise Order System**](https://github.com/yassin-elkhamlichi/JEE-Project) | **Java EE, MVC, DAO, JSP**. <br> Legacy architecture implementation handling complex entity relationships and session management. |
 | [**🏫 School Management System**](https://github.com/yassin-elkhamlichi/School-management-with-GUI-use-tkinter) | **Python, Tkinter, SQLite**. <br> Desktop automation tool featuring data export/import and administrative dashboards. |
