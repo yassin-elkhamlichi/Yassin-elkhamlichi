@@ -18,7 +18,7 @@
 
 | **Backend & Architecture** | **Frontend & Web** | **Tools & DevOps** |
 | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,maven,idea,python" /> | <img src="https://skillicons.dev/icons?i=angular,ts,html,css,bootstrap" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" /> |
+| <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,maven,idea,python" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" /> |
 
 
 ---
