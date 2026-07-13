@@ -8,8 +8,7 @@
 
 <br />
 
-**Software Engineer** with a Master's in Software Quality, specializing in **Java Spring Boot backend architecture** and **AI/RAG engineering** (Python, LangChain, FastAPI). Designed a production-grade Retrieval-Augmented Generation system for Arabic legal text, achieving **94.35% Recall@6** with zero fine-tuning. Bridges robust backend logic with modern **React** interfaces, and containerizes microservices with Docker Compose.
-
+**Software Engineer** with a Master's in Software Quality, specializing in **Java Spring Boot backend architecture** and **AI/RAG engineering**. 
 </div>
 
 ---
