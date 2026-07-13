@@ -34,9 +34,22 @@ A full-stack, 7-service microservices platform for querying Moroccan legislation
 | :--- | :--- | :--- |
 | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,fastapi,maven,idea" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,vite" /> | <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,docker,git,github,linux,nginx,postman" /> |
 
-**AI / LLM Engineering:** LangChain · RAG Architecture · Prompt Engineering (Guided Decoding) · Cohere & Google Gemini APIs · Qdrant · ChromaDB · Docling · Synthetic Data Generation · Retrieval Evaluation (Recall@K)
+**AI / LLM Engineering:** <br />
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=apachespark&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere-394EFF?style=for-the-badge&logo=cohere&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6F00?style=for-the-badge&logo=qdrant&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-121212?style=for-the-badge&logo=chromadb&logoColor=white)
+![Docling](https://img.shields.io/badge/Docling-0056D2?style=for-the-badge&logo=ibm&logoColor=white)<br />
 
-**Testing & Quality:** JUnit 5 · Mockito · MockMvc · Jakarta Validation · Software Quality Assurance
+**Testing & Quality:** <br />
+![JUnit5](https://img.shields.io/badge/JUnit5-C21325?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white)
+![MockMvc](https://img.shields.io/badge/MockMvc-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Jakarta Validation](https://img.shields.io/badge/Jakarta_Validation-FF6C37?style=for-the-badge&logo=java&logoColor=white)
+<br />
 
 ---
 
