@@ -8,7 +8,9 @@
 
 <br />
 
-**Software Engineer** with a Master's in Software Quality, specializing in **Java Spring Boot backend architecture** and **AI/RAG engineering**. 
+**Backend AI Engineer** specializing in **Java Spring Boot microservices** and **RAG system architecture**.  
+Built **Qanouni**, a 7-service AI platform for Arabic legal document retrieval — from PDF ingestion to vector search to API design.  
+Strong focus on software quality, testing (JUnit, Mockito), and production-ready backend systems.
 </div>
 
 ---
@@ -16,7 +18,7 @@
 ## 🎓 Flagship Project — Qanouni: AI-Powered Moroccan Legal Assistant
 *Master's Thesis (PFE) · Private Repository*
 
-A full-stack, 7-service microservices platform for querying Moroccan legislation in natural language (Arabic/French).
+A full-stack, 7-service microservices platform for querying Moroccan legislation in natural language (Arabic).
 
 - 🔍 Engineered a **7-phase RAG pipeline**: PDF ingestion (Docling) → hierarchical chunking with Arabic heading classification → multilingual embedding (Cohere `embed-multilingual-v3.0`) → vector indexing (Qdrant) → answer generation (Gemini 3 Flash) with a confidence-based refusal guard
 - 📊 Achieved **94.35% Recall@6** and **75.89% Recall@1** on a 700-pair synthetic evaluation set, generated via Context Packing with Guided Decoding
