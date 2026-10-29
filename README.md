@@ -14,19 +14,18 @@ Strong focus on software quality, testing (JUnit, Mockito), and production-ready
 </div>
 
 ---
-
 ## Flagship Project — Qanouni: AI-Powered Moroccan Legal Assistant
 *Master's Thesis (PFE) · Private Repository*
 
 A full-stack, 7-service microservices platform for querying Moroccan legislation in natural language (Arabic).
 
-- **[Search]** Engineered a **7-phase RAG pipeline**: PDF ingestion (Docling) → hierarchical chunking with Arabic heading classification → multilingual embedding (Cohere `embed-multilingual-v3.0`) → vector indexing (Qdrant) → answer generation (Gemini 3 Flash) with a confidence-based refusal guard
-- **[Metrics]** Achieved **94.35% Recall@6** and **75.89% Recall@1** on a 700-pair synthetic evaluation set, generated via Context Packing with Guided Decoding
-- **[Backend]** Built the Spring Boot 3 orchestration layer: JWT/RBAC auth, Flyway schema migrations, Redis-backed user quota management, MapStruct DTOs + Jakarta Validation
-- **[Infra]** Containerized all 7 services with Docker Compose (health-check dependencies, Docker Secrets, service-mesh networking)
-- **[Frontend]** Built the React (Vite) frontend with RTL Arabic layout, a conversational chat interface, admin document management, and an answer-flagging system for human-in-the-loop review
+- **Search:** Engineered a **7-phase RAG pipeline**: PDF ingestion (Docling) → hierarchical chunking with Arabic heading classification → multilingual embedding (Cohere `embed-multilingual-v3.0`) → vector indexing (Qdrant) → answer generation (Gemini 3 Flash) with a confidence-based refusal guard
+- **Metrics:** Achieved **94.35% Recall@6** and **75.89% Recall@1** on a 700-pair synthetic evaluation set, generated via Context Packing with Guided Decoding
+- **Backend:** Built the Spring Boot 3 orchestration layer: JWT/RBAC auth, **Google sign-in (OAuth 2.0 / OIDC)** with a dual-token flow (refresh token in an `HttpOnly`, `Secure`, `SameSite` cookie), Flyway schema migrations, Redis-backed user quota management, MapStruct DTOs + Jakarta Validation
+- **Infra:** Containerized all 7 services with Docker Compose (health-check dependencies, Docker Secrets, service-mesh networking)
+- **Frontend:** Built the React (Vite) frontend with RTL Arabic layout, a conversational chat interface, admin document management, and an answer-flagging system for human-in-the-loop review
 
-`Java 17` `Spring Boot 3` `Python` `FastAPI` `LangChain` `Qdrant` `Cohere` `Gemini` `MySQL` `Redis` `MinIO` `React` `Docker`
+`Java 17` `Spring Boot 3` `OAuth 2.0` `OIDC` `Python` `FastAPI` `LangChain` `Qdrant` `Cohere` `Gemini` `MySQL` `Redis` `MinIO` `React` `Docker`
 
 ---
 
